@@ -40,7 +40,6 @@ function MarkdownVisProvider(Private) {
     },
     requestHandler: 'none',
     responseHandler: 'none',
-    implementsRenderComplete: true,
   });
 }
 
